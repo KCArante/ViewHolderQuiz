@@ -4,4 +4,34 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+    <string-array name="array_movies">
+        <item>Fifty Shades of Grey</item>
+        <item>Runaway Bride</item>
+        <item>Tinkerbell</item>
+        <item>Princess in the Pauper</item>
+        <item>The Frog Prince</item>
+        <item>Cinderella</item>
+        <item>The Ice Princess</item>
+        <item>Diary</item>
+        <item>Take me home</item>
+        <item>ForeverLove</item>
+        <item>The Happy Ending</item>
+        <item>3 idiots</item>
+        <item>Snow White</item>
+    </string-array>
+    <string-array name="array_genre">
+        <item>Romance</item>
+        <item>Love Story</item>
+        <item>Fantacy</item>
+        <item>Fantacy</item>
+        <item>Fantacy</item>
+        <item>Fantacy</item>
+        <item>Fantacy</item>
+        <item>Love Story</item>
+        <item>Action</item>
+        <item>Love Story</item>
+        <item>Love Story</item>
+        <item>Comedy</item>
+        <item>Fantacy</item>
+    </string-array>
 </resources>
